@@ -6,6 +6,7 @@ class Main {
     System.out.println("l");
     System.out.println("o");
     System.out.println("w");
+    System.out.println("o");
     System.out.println("r");
     System.out.println("l");
     System.out.println("d");
